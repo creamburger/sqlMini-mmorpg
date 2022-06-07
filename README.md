@@ -31,7 +31,7 @@
 - [DBeaver 22.0.5] - Editing sql conviniently
 - [MySQL Workbench] - Testing sql query
 
-## ## Files
+## Files
 
 - scenario_mysql.sql
 
