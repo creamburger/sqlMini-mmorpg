@@ -35,7 +35,7 @@
 
 - scenario_mysql.sql
 
-    ```bash
+```bash
 📦 Databases
 └─ playdata
    ├─ Tables
